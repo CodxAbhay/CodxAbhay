@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhay Pratap Verma.
-- 🌱 I’m currently learning DSA WITH JAVA
+- 🌱 I’m currently learning DSA WITH JAVA, Full stack Dev.
 - 📫 reach me - vabhay016@gmail.com
 
 
