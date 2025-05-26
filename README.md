@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year B.Tech student in Computer Science (AI/ML) from Lucknow
+- 🎓 Third-year B.Tech student in Computer Science (AI/ML)
 - 💻 Building **full-stack web apps** with MongoDB, Express.js, Node.js, and Bootstrap
 - 🧩 Love solving problems using **Data Structures & Algorithms** (Java)
 - 🚀 Currently exploring **AI/ML integration in real-world projects**
